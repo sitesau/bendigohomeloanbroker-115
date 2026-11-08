@@ -1,0 +1,22 @@
+{
+  "wheel_id": 852,
+  "structure": "umbrella",
+  "slug": "bendigohomeloanbroker-115",
+  "project": "mortgage-broker-bendigo-glossary-f178f7f41af0e2f6b76c2b2148dad7",
+  "parent_t1_ref": "bendigohomeloanbroker-156",
+  "node_role": "feeder",
+  "money_target": "bendigohomeloanbroker.com.au",
+  "primary_kw": "mortgage broker bendigo glossary",
+  "intended_url": "https://aumedia.neocities.org/mortgage-broker-bendigo-glossary-f178f7f41af0e2f6b76c2b2148dad7/",
+  "tier": "T2",
+  "writeback_nonce": "6ef93c744e403524",
+  "links": [
+    {
+      "target_url": "https://sitesau.github.io/bendigohomeloanbroker-156/",
+      "anchor": "https://sitesau.github.io/bendigohomeloanbroker-156/",
+      "rel": "follow",
+      "target_type": "cloud",
+      "anchor_type": "url"
+    }
+  ]
+}
